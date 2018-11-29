@@ -6,7 +6,7 @@ import router from './router'
 import axios from 'axios'
 import Vueaxios from 'vue-axios'
 import EasyUI from 'vx-easyui'
-import '@/assets/styles/global.scss'
+
 import './assets/styles/icon.css'
 import 'vx-easyui/dist/themes/default/easyui.css'
 import 'vx-easyui/dist/themes/icon.css'

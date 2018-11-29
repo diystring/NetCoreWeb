@@ -13,6 +13,8 @@
       <div>
         <LinkButton :disabled="false" @click="submitForm()">Submit</LinkButton>
         <router-link to="HelloWorld">跳转</router-link>
+        <router-link to="Main">跳转</router-link>
+        
       </div>
     </Form>
     </Panel>
